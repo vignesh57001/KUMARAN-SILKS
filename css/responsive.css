@@ -231,6 +231,8 @@
 
 }
 
+
+
  
 /* Tablet desktop :768px. */
 @media (min-width: 768px) and (max-width: 991px) {
@@ -238,7 +240,7 @@
 
 
 .header-top-left li {
-  padding: 18px 8px;
+  padding: 18px 2px;
 }
 .header-top-right ul li {
   padding: 12px 8px;

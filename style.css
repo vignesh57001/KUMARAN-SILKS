@@ -2276,6 +2276,12 @@ label{
   padding: 0 20px;
   text-align: left;
 }
+
+@media (max-width: 990px) {
+  .top-rated {
+    display: none;
+  }
+}
 .shop-content .product-brief-inner {
   padding: 0;
 }
@@ -3985,10 +3991,14 @@ h1.thank-you {
   color: #fff;
 }
 
+.blog-brief p:hover{
+  color: #f6416c;
+}
 
-
-
-
+.about-us-brief h2:hover,
+.about-us-brief p:hover{
+  color: #f6416c;
+}
 
 
 
